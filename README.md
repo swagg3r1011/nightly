@@ -9,4 +9,4 @@ The only thing that is not skided is the clickgui, but its made on exeo's base.
 
 If you want to read why I am leaving you can check the discord server: https://discord.gg/UDZTFeveAS (I am to lazy to upload a screenshot of the message to imgur lol)
 
-Idk how to upload this whole thing onto github so heres the downlaod link, it should be eclipse ready, make sure to use jdk 8. https://workupload.com/file/V9zWQP7KK25
+Idk how to upload this whole thing onto github so heres the downlaod link, it should be eclipse ready, make sure to use jdk 8. https://mega.nz/file/0VpG2ALL#XemVcfszm0gubTyCCyZdJqAIh8J6vmks9jdKIq1k2M8
